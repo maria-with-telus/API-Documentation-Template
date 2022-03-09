@@ -123,7 +123,7 @@ Explain why your API is needed and include use cases.
 
 -   A description of generic usage patterns.
 
-A RESTful API is an architectural style for an application program interface ([API](https://www.techtarget.com/searchapparchitecture/definition/application-program-interface-API)) that uses HTTP requests to access and use data. That data can be used to GET, PUT, POST and DELETE data types, which refers to the reading, updating, creating, and deleting of operations concerning resources.
+A RESTful API is an architectural style for an application program interface (API) that uses HTTP requests to access and use data. That data can be used to GET, PUT, POST and DELETE data types, which refers to the reading, updating, creating, and deleting of operations concerning resources.
 
 An API for a website is code that allows two software programs to communicate with each other. The API spells out the proper way for a developer to write a program requesting services from an operating system or other application.
 
@@ -397,7 +397,7 @@ The IssueTrack REST API allows developers to perform programmatically various ac
 
 -   Download an Issue Attachment
 
--   [Link Issues](https://www.jetbrains.com/help/youtrack/devportal/api-howto-link-issues.html)
+-   Link Issues
 
 -   Get Issue History
 
